@@ -1,0 +1,20 @@
+#MyEclipse Hibernate Properties
+#Sat Oct 08 16:44:57 SGT 2016
+genBasicCompId=false
+sessionFactoryName=
+profile=
+daoSFId=
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=
+genVersionTag=false
+sessionFactoryId=sessionFactory
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=
+configFile=/ssh_contacts/src/applicationContext.xml
+createConfigFile=true
